@@ -15,5 +15,27 @@
     "scales": 8,
     "total": 26
   },
-  "dataset_sha256": "8c96f6221d81ac604a2b5aa4c87fe69b11f39b0267c05a94882d6829a73924b2"
+  "dataset_sha256": "8c96f6221d81ac604a2b5aa4c87fe69b11f39b0267c05a94882d6829a73924b2",
+  "fingerings": {
+    "source_file": "guitar-chords-for-beginners/index.html",
+    "source_sha256": "27c7a47df93475c138a8355c6ce7c4c3af5ca16ca9938bbeca1501cbf4333bdb",
+    "rows": 8,
+    "string_order": [
+      6,
+      5,
+      4,
+      3,
+      2,
+      1
+    ],
+    "tuning_midi": [
+      40,
+      45,
+      50,
+      55,
+      59,
+      64
+    ],
+    "extraction": "Fret numbers, finger assignments and root/type links parsed from the existing lesson cards; note_names use the application spelling function."
+  }
 }

@@ -1,0 +1,27 @@
+{
+  "chord_symbol": "C",
+  "root_pitch_class": 0,
+  "type_id": "major",
+  "note_names": [
+    "C",
+    "E",
+    "G"
+  ],
+  "frets": [
+    -1,
+    3,
+    2,
+    0,
+    1,
+    0
+  ],
+  "fingers": [
+    0,
+    3,
+    2,
+    0,
+    1,
+    0
+  ],
+  "source_url": "https://mychordfinder.com/guitar-chords-for-beginners#chord-C"
+}
