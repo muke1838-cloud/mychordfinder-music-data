@@ -1,0 +1,19 @@
+{
+  "source_file": "src/music.ts",
+  "source_sha256": "1f497d2a7960e19071d611738d66a5ee6ce10287b9b8731b4e452fe1ca03602d",
+  "exported_constants": [
+    "CHORDS",
+    "SCALES"
+  ],
+  "transformations": [
+    "Object keys become id",
+    "intervals renamed intervals_semitones without changing values",
+    "family and tool_url identify the source table and application"
+  ],
+  "counts": {
+    "chords": 18,
+    "scales": 8,
+    "total": 26
+  },
+  "dataset_sha256": "8c96f6221d81ac604a2b5aa4c87fe69b11f39b0267c05a94882d6829a73924b2"
+}

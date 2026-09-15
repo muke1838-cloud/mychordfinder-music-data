@@ -1,0 +1,26 @@
+{"family":"chord","id":"6","name":"Major 6th","intervals_semitones":[0,4,7,9],"tool_url":"https://mychordfinder.com/"}
+{"family":"chord","id":"7","name":"Dominant 7th","intervals_semitones":[0,4,7,10],"tool_url":"https://mychordfinder.com/"}
+{"family":"chord","id":"9","name":"Dominant 9th","intervals_semitones":[0,4,7,10,14],"tool_url":"https://mychordfinder.com/"}
+{"family":"chord","id":"11","name":"Dominant 11th (complete)","intervals_semitones":[0,4,7,10,14,17],"tool_url":"https://mychordfinder.com/"}
+{"family":"chord","id":"13","name":"Dominant 13th (complete)","intervals_semitones":[0,4,7,10,14,17,21],"tool_url":"https://mychordfinder.com/"}
+{"family":"chord","id":"major","name":"Major","intervals_semitones":[0,4,7],"tool_url":"https://mychordfinder.com/"}
+{"family":"chord","id":"minor","name":"Minor","intervals_semitones":[0,3,7],"tool_url":"https://mychordfinder.com/"}
+{"family":"chord","id":"maj7","name":"Major 7th","intervals_semitones":[0,4,7,11],"tool_url":"https://mychordfinder.com/"}
+{"family":"chord","id":"m7","name":"Minor 7th","intervals_semitones":[0,3,7,10],"tool_url":"https://mychordfinder.com/"}
+{"family":"chord","id":"dim","name":"Diminished","intervals_semitones":[0,3,6],"tool_url":"https://mychordfinder.com/"}
+{"family":"chord","id":"aug","name":"Augmented","intervals_semitones":[0,4,8],"tool_url":"https://mychordfinder.com/"}
+{"family":"chord","id":"sus2","name":"Suspended 2nd","intervals_semitones":[0,2,7],"tool_url":"https://mychordfinder.com/"}
+{"family":"chord","id":"sus4","name":"Suspended 4th","intervals_semitones":[0,5,7],"tool_url":"https://mychordfinder.com/"}
+{"family":"chord","id":"m6","name":"Minor 6th","intervals_semitones":[0,3,7,9],"tool_url":"https://mychordfinder.com/"}
+{"family":"chord","id":"add9","name":"Added 9th","intervals_semitones":[0,4,7,14],"tool_url":"https://mychordfinder.com/"}
+{"family":"chord","id":"m9","name":"Minor 9th","intervals_semitones":[0,3,7,10,14],"tool_url":"https://mychordfinder.com/"}
+{"family":"chord","id":"dim7","name":"Diminished 7th","intervals_semitones":[0,3,6,9],"tool_url":"https://mychordfinder.com/"}
+{"family":"chord","id":"m7b5","name":"Half-diminished 7th","intervals_semitones":[0,3,6,10],"tool_url":"https://mychordfinder.com/"}
+{"family":"scale","id":"major","name":"Major","intervals_semitones":[0,2,4,5,7,9,11],"tool_url":"https://mychordfinder.com/guitar-scales"}
+{"family":"scale","id":"minor","name":"Natural minor","intervals_semitones":[0,2,3,5,7,8,10],"tool_url":"https://mychordfinder.com/guitar-scales"}
+{"family":"scale","id":"major-pentatonic","name":"Major pentatonic","intervals_semitones":[0,2,4,7,9],"tool_url":"https://mychordfinder.com/guitar-scales"}
+{"family":"scale","id":"minor-pentatonic","name":"Minor pentatonic","intervals_semitones":[0,3,5,7,10],"tool_url":"https://mychordfinder.com/guitar-scales"}
+{"family":"scale","id":"blues","name":"Minor blues","intervals_semitones":[0,3,5,6,7,10],"tool_url":"https://mychordfinder.com/guitar-scales"}
+{"family":"scale","id":"dorian","name":"Dorian","intervals_semitones":[0,2,3,5,7,9,10],"tool_url":"https://mychordfinder.com/guitar-scales"}
+{"family":"scale","id":"mixolydian","name":"Mixolydian","intervals_semitones":[0,2,4,5,7,9,10],"tool_url":"https://mychordfinder.com/guitar-scales"}
+{"family":"scale","id":"harmonic-minor","name":"Harmonic minor","intervals_semitones":[0,2,3,5,7,8,11],"tool_url":"https://mychordfinder.com/guitar-scales"}
