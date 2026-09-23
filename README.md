@@ -56,6 +56,18 @@ Build a practice-app chord card from the fingering rows, explain chord tones in 
 
 Keep the original interval values when register matters: extensions include offsets such as 14, 17 and 21. A formula with seven distinct chord tones is not a promise of a complete six-string guitar shape.
 
+### Query a formula offline
+
+With Node.js 18 or later, run this dependency-free example from a downloaded copy of this repository:
+
+```sh
+node query.mjs chord dim7 0
+node query.mjs scale minor-pentatonic 9
+node --test query.test.mjs
+```
+
+The first command returns pitch classes `[0, 3, 6, 9]` for C diminished seventh. The second returns `[9, 0, 2, 4, 7]` for A minor pentatonic. Roots use C=0 through B=11; find valid IDs in the CSV. Original semitone offsets are retained alongside the calculated pitch classes. This helper does not generate theoretical note names, guitar fingerings, rhythm or audio, and makes no network requests.
+
 ## 4. Where the data comes from
 
 The formula records are exported directly from `CHORDS` and `SCALES` in the application's `src/music.ts`. Names, keys and interval order are preserved. No extra chords or transposed records were invented for this release. The eight fingering rows are parsed from the site's existing beginner lesson HTML, including its fret lists and finger instructions. The exporter checks that each shape produces exactly the corresponding chord-tone set; it does not run the page generator or change the website. The source application documents its independently implemented formulas with references including [Open Music Theory: Triads](https://viva.pressbooks.pub/openmusictheory/chapter/triads/), [Seventh Chords](https://viva.pressbooks.pub/openmusictheory/chapter/seventh-chords/) and [Fender's scale overview](https://www.fender.com/articles/scales/5-essential-guitar-scales-for-beginners).
